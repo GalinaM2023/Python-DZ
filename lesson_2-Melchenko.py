@@ -1,5 +1,7 @@
 print("Задание 1")
 
+
+
 '''
 Задание 1
 Создать список и заполнить его элементами 
@@ -119,3 +121,4 @@ for el in range(len(my_list)):
     elif my_list[el] > number and my_list[el + 1] < number:
         my_list.insert(el + 1, number)
 print(f"Cписок - {my_list}")
+
