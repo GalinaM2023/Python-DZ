@@ -167,3 +167,5 @@ def int_func_new(arg):
 
 
 int_func_new(input("Введите слова через пробел: "))
+
+
